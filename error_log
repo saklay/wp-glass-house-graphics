@@ -1,0 +1,1 @@
+[30-Apr-2011 02:50:23] PHP Fatal error:  Call to undefined function get_header() in /home/glasshou/public_html/newsite/wp-content/themes/GlassHouseGraphics/index.php on line 5
